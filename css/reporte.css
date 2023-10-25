@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(49, 49, 49);
+    color: white;
+}
+.btn{
+    background-color:coral;
+    color: white;
+}
+
+.modal-dialog{
+    background-color: gray;
+}

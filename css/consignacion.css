@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(49, 49, 49);
+    color: white;
+}
+.btn{
+    background-color:coral;
+    color: white;
+}
+
+.modal-dialog{
+    background-color: gray;
+}
+.containers{
+    height: 100vh;
+}
+.form{
+    width: 30%;
+    height: 50%;
+    border: solid 3px white ;
+    background-color: rgb(59, 59, 59);
+    padding: 1em;
+}
